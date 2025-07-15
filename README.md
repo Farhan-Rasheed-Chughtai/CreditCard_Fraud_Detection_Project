@@ -1,4 +1,4 @@
-Overview:
+Overview: (Refer to the full report for more details : [Report](Team8_Project_Report.pdf))
 
 This project focused on building an effective machine learning model to detect credit card fraud, a critical issue for banks and financial institutions. The goal was to use supervised learning methods to develop a model that identifies fraudulent transactions quickly and accurately, reducing financial losses.
 
